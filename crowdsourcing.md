@@ -61,7 +61,7 @@ permalink: /crowd/
 - Motorcycle Patches
 - Loveeeeeee Song
 
-##How Crowdsourcing Improves Playlist Quality:
+## How Crowdsourcing Improves Playlist Quality:
 Diverse Music Selection – A wider range of contributors can introduce a variety of genres, artists, and hidden gems that a single curator might overlook.
 
 Real-Time Updates – Playlists can stay fresh and up-to-date with trending or newly released songs that users collectively add.
