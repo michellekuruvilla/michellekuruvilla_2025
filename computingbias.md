@@ -74,4 +74,3 @@ permalink: /computing/
     </div>
 </body>
 </html>
-
