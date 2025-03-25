@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Crowdsourcing popcorn hacks
-description: none
+description: Popcorn and Homework Hacks
 permalink: /crowd/
 ---
 
@@ -60,3 +60,28 @@ permalink: /crowd/
 ## Two Songs For Homework Hack: 
 - Motorcycle Patches
 - Loveeeeeee Song
+
+##How Crowdsourcing Improves Playlist Quality:
+Diverse Music Selection – A wider range of contributors can introduce a variety of genres, artists, and hidden gems that a single curator might overlook.
+
+Real-Time Updates – Playlists can stay fresh and up-to-date with trending or newly released songs that users collectively add.
+
+Community-Driven Relevance – Crowdsourcing reflects the preferences of a larger audience, making the playlist more engaging and relatable.
+
+Niche Playlists – Some niche playlists, like mood-based or hyper-specific themed lists, benefit from community contributions because they capture a broader interpretation of the theme.
+
+## How Crowdsourcing Can Harm Playlist Quality:
+Lack of Cohesion – Without strict guidelines, a playlist may become inconsistent in tone, genre, or style.
+
+Overcrowding with Popular Songs – Crowdsourcing can lead to an overrepresentation of mainstream hits, drowning out lesser-known but high-quality tracks.
+
+Low-Quality or Irrelevant Additions – If anyone can contribute, there’s a risk of inappropriate or low-quality songs being added.
+
+Frequent Changes – Some playlists may lose their identity due to constant additions and removals, making it difficult to establish a consistent listening experience.
+
+Balancing Crowdsourcing for Better Playlists:
+Voting Mechanisms – Allowing users to upvote or downvote songs can help maintain quality.
+
+Curatorial Oversight – Having a moderator or algorithm refine selections can ensure consistency.
+
+Category-Specific Playlists – Setting clear guidelines for submissions (e.g., only lo-fi hip-hop for studying) can improve coherence.
