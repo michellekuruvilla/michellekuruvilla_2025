@@ -2,7 +2,7 @@
 layout: Computing Bias Popcorn Hacks
 title: Blogs
 search_exclude: true
-permalink: /computing/
+permalink: /bias/
 ---
 
 <div class="popcorn-hack">
