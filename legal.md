@@ -86,26 +86,34 @@ permalink: /legal/
         </ul>
         
         <h2>Homework Hack: Choosing a License for Personal Repo</h2>
+        
         <h3>Task 1: Select a License</h3>
         <ul>
-            <li>MIT License</li>
+            <li><strong>MIT License</strong></li>
             <li>GPL License</li>
             <li>Creative Commons License</li>
             <li>Apache License</li>
         </ul>
         
         <h3>Task 2: Explain Your Choice</h3>
-        <p>Write 3-5 sentences justifying why you selected your license.</p>
+        <p>I chose the <strong>MIT License</strong> for my personal repository. It is a permissive open-source license, which means that others can freely use, modify, and distribute my code as long as they include the original copyright and license notice. This is beneficial for encouraging collaboration and innovation while still protecting my intellectual property. Additionally, the simplicity and ease of use of the MIT License makes it a great option for open-source projects.</p>
         
         <h3>Task 3: Add the License to Your Repository</h3>
-        <p>Create a LICENSE file and include the full text with your name and year.</p>
+        <p>I have already created a LICENSE file in my repository with the MIT License text, including my name and year. You can view the license <a href="https://github.com/michellekuruvilla/michellekuruvilla_2025/blob/main/LICENSE" target="_blank">here</a>.</p>
         
         <h3>Extra Credit</h3>
+        
         <h4>Task 4: Define Your Project</h4>
-        <p>Describe your CPT or Pilot City project and list key features.</p>
+        <p>For my CPT project, I am analyzing Palomar Health's social media and exploring ways to increase user engagement by up to 20%. The project involves tracking social media metrics, evaluating audience behavior, and making data-driven recommendations to enhance engagement. Key features include:</p>
+        <ul>
+            <li>Social media analytics dashboard</li>
+            <li>User engagement analysis</li>
+            <li>Content performance tracking</li>
+            <li>Engagement strategy recommendations</li>
+        </ul>
         
         <h4>Task 5: Add a License to Your CPT Project</h4>
-        <p>This license must be different from your personal repo’s.</p>
+        <p>For my CPT project, I will be using the <strong>GPL License</strong>. The GPL License is more restrictive compared to the MIT License, ensuring that any modifications or derivative works based on my project will also be open-source. This is ideal for ensuring that the work remains free and accessible for future use and modification by others.</p>
         
         <div class="button-container">
             <a href="https://github.com/michellekuruvilla/michellekuruvilla_2025/blob/main/LICENSE" target="_blank" class="license-button">
