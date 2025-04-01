@@ -5,6 +5,107 @@ search_exclude: true
 permalink: /bias/
 ---
 
+<style>
+  body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #f4f7fb;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+
+  .popcorn-hack {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    padding: 20px;
+    transition: all 0.3s ease;
+  }
+
+  .popcorn-hack:hover {
+    transform: translateY(-5px);
+  }
+
+  .popcorn-hack h2 {
+    font-size: 24px;
+    color: #3d5a80;
+    margin-bottom: 10px;
+  }
+
+  .popcorn-hack ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+
+  .popcorn-hack li {
+    font-size: 18px;
+    padding: 5px;
+    background-color: #f0f3f5;
+    margin-bottom: 8px;
+    border-radius: 5px;
+    color: #333;
+    transition: all 0.3s ease;
+  }
+
+  .popcorn-hack li:hover {
+    background-color: #cce7ff;
+    cursor: pointer;
+  }
+
+  .popcorn-hack strong {
+    font-weight: bold;
+    color: #1d3557;
+  }
+
+  .popquiz {
+    background-color: #e0fbfc;
+    border-left: 5px solid #98c1d9;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .popquiz h2 {
+    font-size: 22px;
+    color: #1d3557;
+  }
+
+  .popquiz p {
+    font-size: 18px;
+    color: #333;
+  }
+
+  .popquiz ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+
+  .popquiz li {
+    font-size: 18px;
+    padding: 8px;
+    margin-bottom: 12px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    transition: all 0.3s ease;
+  }
+
+  .popquiz li:hover {
+    background-color: #b8e0d2;
+  }
+
+  .popquiz strong {
+    color: #1d3557;
+  }
+
+  .popquiz .answer {
+    color: #00aaff;
+    font-weight: bold;
+  }
+</style>
+
 <div class="popcorn-hack">
   <h2>Popcorn Hack 1</h2>
   <p><strong>Which of the following is considered PII?</strong></p>
@@ -14,7 +115,7 @@ permalink: /bias/
     <li>C. Zip Code</li>
     <li>D. Job Title</li>
   </ul>
-  <p><strong>Answer: </strong>Fingerprint</p>
+  <p><strong>Answer: </strong><span class="answer">Fingerprint</span></p>
 </div>
 
 <div class="popcorn-hack">
@@ -26,7 +127,7 @@ permalink: /bias/
     <li>C. Hannah writes a message to send to Isabel and hides the message under a rock behind the soccer field. Hannah gives Isabel the exact location of the rock so that only Isabel can find the message.</li>
     <li>D. Juan writes a message to send to Kelly and slides the message through a slot in the front of Kelly’s locker. Juan knows that Kelly has not shared her locker combination with anyone, so no one other than Kelly will be able to read the message.</li>
   </ul>
-  <p><strong>Answer: </strong>B, because Symmetric encryption uses the same key for both encryption and decryption. In this scenario, both Finn and Gwen use the same secret key to encode and decode messages, making it an example of symmetric encryption.</p>
+  <p><strong>Answer: </strong><span class="answer">B, because Symmetric encryption uses the same key for both encryption and decryption. In this scenario, both Finn and Gwen use the same secret key to encode and decode messages, making it an example of symmetric encryption.</span></p>
 </div>
 
 <div class="popquiz">
@@ -38,7 +139,7 @@ permalink: /bias/
     <li>C. A fingerprint scan on a smartphone.</li>
     <li>D. A username required to log in.</li>
   </ul>
-  <p><strong>Answer: </strong>A and B</p>
+  <p><strong>Answer: </strong><span class="answer">A and B</span></p>
 </div>
 
 <div class="popcorn-hack">
