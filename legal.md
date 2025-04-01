@@ -5,7 +5,6 @@ search_exclude: true
 permalink: /legal/
 ---
 
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -73,6 +72,24 @@ permalink: /legal/
             background-color: #ecf0f1;
             border-left: 5px solid #2980b9;
         }
+        .button-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .license-button {
+            padding: 10px 20px;
+            background-color: #2980b9;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+        }
+        .license-button:hover {
+            background-color: #1f6690;
+        }
     </style>
 </head>
 <body>
@@ -108,7 +125,7 @@ permalink: /legal/
         <pre>
 MIT License
 
-Copyright (c) [YEAR] [YOUR NAME]
+Copyright (c) [YEAR] Michelle Kuruvilla
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -129,46 +146,17 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
         </pre>
 
-        <h2>Define a Creative Commons License</h2>
-        <p>A <strong>Creative Commons (CC) License</strong> is a public license that allows creators to share their work with specific permissions while still maintaining some rights. It provides a flexible way for authors, artists, and educators to grant permissions for use, modification, and distribution of their work.</p>
+        <div class="button-container">
+            <a href="https://github.com/michellekuruvilla/michellekuruvilla_2025/blob/main/LICENSE" target="_blank" class="license-button">
+                View MIT License
+            </a>
+        </div>
 
-        <h3>Types of Creative Commons Licenses:</h3>
-        <ul>
-            <li><strong>CC BY</strong> (Attribution) – Allows use and modifications as long as credit is given.</li>
-            <li><strong>CC BY-SA</strong> (Attribution-ShareAlike) – Same as CC BY but requires derivatives to be shared under the same license.</li>
-            <li><strong>CC BY-ND</strong> (Attribution-NoDerivatives) – Allows distribution but prohibits modifications.</li>
-            <li><strong>CC BY-NC</strong> (Attribution-NonCommercial) – Allows non-commercial use only.</li>
-            <li><strong>CC BY-NC-SA</strong> (Attribution-NonCommercial-ShareAlike) – Non-commercial use with required sharing under the same license.</li>
-            <li><strong>CC BY-NC-ND</strong> (Attribution-NonCommercial-NoDerivatives) – The most restrictive; allows sharing only with attribution and no modifications or commercial use.</li>
-        </ul>
+        <h2>Define a Creative Commons License</h2>
+        <p>A <strong>Creative Commons (CC) License</strong> is a public license that allows creators to share their work with specific permissions while still maintaining some rights.</p>
 
         <h2>Exceptions to Copyright Law</h2>
         <p>Some uses of copyrighted material are legally <strong>exempt from copyright restrictions</strong>, allowing content to be used without permission under specific circumstances.</p>
-
-        <h3>Common Copyright Exceptions:</h3>
-        <ul>
-            <li><strong>Fair Use</strong> – Allows limited use for purposes such as education, news reporting, commentary, and research.</li>
-            <li><strong>Public Domain</strong> – Works that are no longer under copyright protection or were never copyrighted.</li>
-            <li><strong>First Sale Doctrine</strong> – Allows resale or lending of legally purchased copies (e.g., used books, DVDs).</li>
-            <li><strong>Educational Use (TEACH Act)</strong> – Permits teachers and students to use copyrighted content in online learning environments.</li>
-            <li><strong>Parody and Satire</strong> – Creative works that mimic or mock an original work for commentary or entertainment.</li>
-            <li><strong>Government Works</strong> – U.S. government-created materials are generally public domain.</li>
-        </ul>
-
-        <div class="task">
-            <h3>Task:</h3>
-            <ul>
-                <li>Research real-world examples of Creative Commons-licensed works.</li>
-                <li>Find a case where Fair Use was successfully applied.</li>
-                <li>Consider whether a Creative Commons license is appropriate for any of your own projects.</li>
-            </ul>
-        </div>
-
-        <h2>Task 1: Select a License</h2>
-        <p>I have chosen the <strong>MIT License</strong> for my personal repository.</p>
-
-        <h2>Task 2: Explain Your Choice</h2>
-        <p>I selected the MIT License because it is a <strong>permissive</strong> license that allows others to freely use, modify, and distribute my project while only requiring attribution. This makes it ideal for open-source projects where I want to encourage collaboration without imposing strict conditions. The flexibility of the MIT License ensures that developers can integrate my code into both <strong>open-source and commercial</strong> projects without legal complexity. Additionally, by disclaiming warranties and liability, it protects me from any legal risks associated with how others use my code. Overall, this license balances <strong>openness and simplicity</strong>, making my project more accessible and widely adoptable.</p>
 
         <footer>
             <p>&copy; 2025 Michelle Kuruvilla</p>
